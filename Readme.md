@@ -9,3 +9,5 @@ git commit -m "descricao"
 git checkout para voltar ao estado anterior caso o novo file tenha algum erro
 
 git log
+
+git status
